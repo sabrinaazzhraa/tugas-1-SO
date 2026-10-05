@@ -1,4 +1,4 @@
-1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya.
+1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya.                                 
 Jawab:
 
 •	Tahap 1 Mendonwload VirtualBox
@@ -15,10 +15,13 @@ Jawab:
 
 2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
 
-Jawab: Mount Point “/” dipilih karena merupakan direktori utama pada sistem operasi Linux. Partisi ini digunakan sebagai tempat utama untuk menginstal dan menyimpan file-file sistem operasi Ubuntu. Semua direktori yang ada pada Linux berada di bawah direktori root “/”. 
+Jawab: 
+
+Mount Point “/” dipilih karena merupakan direktori utama pada sistem operasi Linux. Partisi ini digunakan sebagai tempat utama untuk menginstal dan menyimpan file-file sistem operasi Ubuntu. Semua direktori yang ada pada Linux berada di bawah direktori root “/”. 
 Pada proses instalasi, partisi “/” digunakan sebagai tempat sistem operasi, sedangkan partisi “/home” digunakan untuk menyimpan data pengguna.
 
 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
+   
 Jawab:
 
 • Ext4 
