@@ -1,4 +1,5 @@
-1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya. 
+1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya.
+2.	
 Jawab:
 
 •	Tahap 1 Mendonwload VirtualBox
