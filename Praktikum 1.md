@@ -21,6 +21,7 @@ Pada proses instalasi, partisi “/” digunakan sebagai tempat sistem operasi, 
 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
 
 Jawab:
+
 • Ext4 
 Ext4 merupakan filesystem yang digunakan pada sistem operasi Linux. Ext4 dapat digunakan untuk menyimpan file sistem operasi dan data pengguna. Pada praktikum, Ext4 digunakan untuk partisi “/” dan “/home”.  
 • Ext3 
