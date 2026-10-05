@@ -13,16 +13,12 @@ Jawab:
 •	Ubuntu berhasil di download 
 <img width="854" height="423" alt="image" src="https://github.com/user-attachments/assets/83ec6e0b-c58a-46a1-8b86-d4e4ba7b73cd" />
 
-2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
-
-Jawab: 
+2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?                      Jawab: 
 
 Mount Point “/” dipilih karena merupakan direktori utama pada sistem operasi Linux. Partisi ini digunakan sebagai tempat utama untuk menginstal dan menyimpan file-file sistem operasi Ubuntu. Semua direktori yang ada pada Linux berada di bawah direktori root “/”. 
 Pada proses instalasi, partisi “/” digunakan sebagai tempat sistem operasi, sedangkan partisi “/home” digunakan untuk menyimpan data pengguna.
 
-3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
-   
-Jawab:
+3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !                                              Jawab:
 
 • Ext4 
 Ext4 merupakan filesystem yang digunakan pada sistem operasi Linux. Ext4 dapat digunakan untuk menyimpan file sistem operasi dan data pengguna. Pada praktikum, Ext4 digunakan untuk partisi “/” dan “/home”.  
