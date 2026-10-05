@@ -1,6 +1,6 @@
 1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya.
+Jawab:
 
-Jawab:	
 •	Tahap 1 Mendonwload VirtualBox
 <img width="800" height="380" alt="image" src="https://github.com/user-attachments/assets/aa7e94a9-785f-438a-9402-be871aea6b6b" />
 
@@ -19,7 +19,6 @@ Jawab: Mount Point “/” dipilih karena merupakan direktori utama pada sistem 
 Pada proses instalasi, partisi “/” digunakan sebagai tempat sistem operasi, sedangkan partisi “/home” digunakan untuk menyimpan data pengguna.
 
 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
-
 Jawab:
 
 • Ext4 
